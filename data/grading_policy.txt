@@ -1,0 +1,19 @@
+IIT Bombay Grading Policy
+
+Letter Grades and Grade Points:
+AA - 10 points (Outstanding)
+AB - 9 points (Excellent)
+BB - 8 points (Very Good)
+BC - 7 points (Good)
+CC - 6 points (Average)
+CD - 5 points (Below Average)
+DD - 4 points (Marginal Pass)
+FF - 0 points (Fail)
+
+CPI (Cumulative Performance Index) is the weighted average of grade points across all courses.
+SPI (Semester Performance Index) is the weighted average of grade points in a single semester.
+A student must maintain a minimum CPI of 5.0 to avoid academic probation.
+A student with CPI below 4.0 after two semesters may be asked to leave the institute.
+Courses with FF grade must be repeated. The new grade replaces FF in CPI calculation.
+A student can repeat a course to improve grade only if they scored DD or below.
+

@@ -1,0 +1,23 @@
+IIT Bombay Course Registration Rules
+
+Registration Process:
+Students register for courses through the Academic Portal (ASC) at the start of each semester.
+Course registration opens one week before semester start.
+Students can add courses in the first two weeks of the semester.
+Students can drop courses without grade penalty in the first two weeks.
+After the add/drop deadline, withdrawal is allowed until mid-October (Sem 1) or mid-March (Sem 2).
+A withdrawn course appears as W on the transcript and does not affect CPI.
+
+Credit Limits:
+Minimum credits per semester: 12
+Maximum credits per semester: 60 (with faculty advisor approval)
+Normal load: 36-48 credits per semester
+
+Prerequisites:
+Students must have completed prerequisites before registering for a course.
+The system automatically checks prerequisites during registration.
+Prerequisite overrides require written approval from the course instructor.
+
+Backlog Courses:
+Students with FF grade must re-register for the course in a subsequent semester.
+Backlog courses count toward the semester credit limit.

@@ -1,0 +1,31 @@
+IIT Bombay Academic Support and Student Services
+
+Faculty Advisor System:
+- Every student is assigned a Faculty Advisor (FA)
+- FA must be consulted for course registration issues
+- FA approval required for credit overload requests
+- Students must meet FA at least once per semester
+
+Academic Support:
+- Institute provides tutoring support through Teaching Assistants (TAs)
+- TAs hold office hours for doubt clearing
+- Academic Resource Centre provides study materials
+- Library is open 24x7 during exam periods
+
+Attendance Policy:
+- Minimum 75% attendance required in each course
+- Students below 75% attendance are deregistered (DX grade)
+- DX grade is equivalent to FR for CPI calculation
+- Medical leave is counted separately with documentation
+
+Leave Policy:
+- Students must inform their Faculty Advisor before taking leave
+- Leave form must be submitted to the academic office
+- Internship leave during semester requires Dean Academic approval
+- Maximum 10 days leave allowed during semester without penalty
+
+Scholarship and Financial Aid:
+- Merit scholarship for students with CPI above 8.0
+- Need-based scholarship available through Student Welfare office
+- Institute assistantship available for PG students
+- Emergency financial assistance through Dean Student Affairs office
